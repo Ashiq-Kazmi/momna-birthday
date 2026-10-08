@@ -1,0 +1,19 @@
+recipient = "Momna Khan"
+sender = "Kazmi Wazir"
+birthday = "2026-10-09"
+
+[letter]
+english = [
+  "Happy Birthday! I wanted to wish you in a way that felt a little different, so I made this small birthday corner just for you.",
+  "I hope today gives you plenty of reasons to smile, time with people who care about you, and a moment to realise how much you deserve to be celebrated.",
+  "For the year ahead, I wish you good health, peace of mind, success in the things that matter to you, and the courage to keep following your dreams. May Allah bless you with happiness and make your path easier.",
+  "Thank you for being my friend. May the little moments be lovely, the difficult days become lighter, and your next chapter be one you will remember with a smile.",
+  "Enjoy your day, Momna. This little surprise is yours. Happy Birthday once again!"
+]
+roman_urdu = [
+  "Happy Birthday, Momna! Is baar socha ke tumhein thora alag andaaz mein wish karun, is liye yeh chhoti si birthday website sirf tumhare liye banayi hai.",
+  "Umeed hai aaj ka din tumhare liye bohat si muskurahatein, apnon ka saath, aur khushiyon ke pyare lamhe le kar aaye. Tumhara din waqai khaas ho.",
+  "Dua hai ke naya saal tumhari zindagi mein sehat, sukoon, kamyabi aur khushiyan laaye. Allah tumhari achhi khwahishain poori kare aur tumhara har qadam aasaan kare.",
+  "Meri dost hone ke liye shukriya. Dua hai ke chhoti chhoti khushiyan tumhare din khoobsurat banayein aur mushkil waqt halka hota jaye.",
+  "Apna din khoob enjoy karo, Momna. Yeh chhota sa surprise tumhare liye hai. Ek baar phir, Happy Birthday!"
+]
